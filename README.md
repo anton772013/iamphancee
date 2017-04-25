@@ -1,3 +1,7 @@
 # iamphancee
-webstore;
-I am creating a website for my friend so she can sell her clothes online.
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1> "Iamphancee"<h1>;
+
